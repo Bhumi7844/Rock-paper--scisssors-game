@@ -1,1 +1,1 @@
-# Rock-paper--scisssors-game
+rock paper scissors game is a wreb based game that simulates the classic hand game .it allows users to play against the computer by choosing between rock paper or scissors.The game is built using javascript.
